@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rodrigo Monteiro
 - 👀 I’m interested in ... Cloud projects, serverless architecture, Hashicorp Terraform, FreeBSD, Swift, the Moon, vintage computing
-- 🌱 I’m currently learning ... Terraform to automate AWS workloads in my company
-- 💞️ I’m looking to collaborate on ... cloud projects, BSD
+- 🌱 I’m currently learning ... Terraform and Kubernetes to automate AWS workloads in my company and to our customers
+- 💞️ I’m looking to collaborate on ... cloud projects (for now AWS), FreeBSD
 - 📫 How to reach me ... on linkedin @ https://linkedin.com/in/rodmont
 
 <!---
