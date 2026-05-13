@@ -5,7 +5,7 @@
 - 📫 Reach me ... on linkedin @ https://linkedin.com/in/rodmont
 - 📫 Reach me ... on dev @ https://dev.to/caprica
 - 📫 Reach me ... on Germ network @ https://ger.mx/A-1TyvMwEn-WhA1bz_VukNr3l5hs2Mlmk3j1CvLRYbnC#did:plc:6tpb6fsqqad4m6xcem4lrzef
-- 📫 Reach me ... on Bluesky @rodrigo.bsky.caprica.cafe
+- 📫 Reach me ... on Bluesky @rodrigo.bsky.caprica.cafe or https://bsky.app/profile/rodrigo.bsky.caprica.cafe
 
 <!---
 caprica64/caprica64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
